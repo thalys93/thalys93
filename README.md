@@ -2,15 +2,13 @@
   
 - 🏢 Atualmente Estou Trabalhando na __TI Do Grêmio Náutico União__
 - 📒 Estou Estudando Técnico em Informática Na FAQI
-- 📫 Forma de Contato: __luisthalys1@hotmail.com__
-- 🌎 Linkedin: __https://www.linkedin.com/in/luis-rodrigues202/__
+- 🌎 _Sábio é aquele que conhece os limites da própria ignorância._
 
-
-  _Tenho me Identificado cada vez mais com a Área do Front End e do Design de Interfaces UI/UX e por isso tenho estudado desenvolvimento web_ 
+  > _Tenho me Identificado cada vez mais com a Área do Front End e do Design de Interfaces UI/UX e por isso tenho estudado desenvolvimento web_
 
   > Atualmente estou na cadeira de Sistemas Operacionais e Redes  💻
 
-------
+##
 <div align="center">
   <a href="https://github.com/thalys93">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thalys93&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
