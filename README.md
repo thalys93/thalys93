@@ -14,3 +14,5 @@ _imagem meramente ilustrativa_
 _(até eu conseguir aprender a por os gráficos aqui no github)_
 ------
 ![HackerTypingGIF](https://user-images.githubusercontent.com/102838847/175055342-397ede48-1e9c-4c52-aaa7-81f8a6ee0065.gif)
+----
+![Snake animation](https://github.com/thalys93/thalys93/blob/output/github-contribution-grid-snake.svg)
