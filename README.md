@@ -1,12 +1,12 @@
 ### Já Abriu Chamado? 📞
   
-- 🏢 Atualmente Estou Trabalhando na __TI Do Grêmio Náutico União__
+- 🏢 Atualmente Estou Trabalhando na __TI Da DWU It Solutions__
 - 📒 Estou Estudando Técnico em Informática Na FAQI
 - 🌎 _Sábio é aquele que conhece os limites da própria ignorância._
 
   > _Tenho me Identificado cada vez mais com a Área do Front End e do Design de Interfaces UI/UX e por isso tenho estudado desenvolvimento web_
 
-  > Atualmente estou na cadeira de Sistemas Operacionais e Redes  💻
+  > Atualmente estou na cadeira de IOT  💻
 
 ##
 <div align="center">
