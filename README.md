@@ -6,7 +6,7 @@
 
   > _Tenho me Identificado cada vez mais com a Área do Front End e do Design de Interfaces UI/UX e por isso tenho estudado desenvolvimento web_
 
-  > Atualmente estou na cadeira de IOT  💻
+  > Atualmente estou na cadeira de Desenvolvimento WEB I  💻
 
 ##
 <div align="center">
