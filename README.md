@@ -8,6 +8,9 @@
 
   > Atualmente estou na cadeira de Desenvolvimento WEB I  💻
 
+ - Recentemente Criei meu Portifolio Utilizando ANGULAR 
+ Link para Acessar : https://thalys93.github.io/portifolio-angular/
+
 ##
 <div align="center">
   <a href="https://github.com/thalys93">
