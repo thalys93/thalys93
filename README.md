@@ -1,6 +1,6 @@
 ### Já Abriu Chamado? 📞
   
-- 🏢 Atualmente Estou Trabalhando na __TI Da DWU It Solutions__
+- 🏢 Atualmente Estou Buscando por Vagas de **Design de UI/UX**
 - 📒 Estou Estudando Técnico em Informática Na FAQI
 - 🌎 _Sábio é aquele que conhece os limites da própria ignorância._
 
