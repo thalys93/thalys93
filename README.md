@@ -1,6 +1,6 @@
 ### Já Abriu Chamado? 📞
   
-- 🏢 Atualmente Estou Buscando por Vagas de **Design de UI/UX**
+- 🏢 Atualmente Estou Buscando por Vagas de **Design de UI/UX** e **Dev Front end**
 - 📒 Estou Estudando Técnico em Informática Na FAQI
 - 🌎 _Sábio é aquele que conhece os limites da própria ignorância._
 
