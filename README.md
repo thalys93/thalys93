@@ -5,11 +5,11 @@
 - 🌎 _Sábio é aquele que conhece os limites da própria ignorância._
 
   > _Tenho me Identificado cada vez mais com a Área do Front End e do Design de Interfaces UI/UX e por isso tenho estudado desenvolvimento web_
+  
+ ❗ Agora Possuo um Portifolio em React! , onde faço constantes atualizações e optimizações <br/>
+https://portifolio-luis-thalys.web.app/
 
-🔨Atualmente Estou Trabalhando no meu portifólio em React 
-https://github.com/thalys93/portifolio-react
-
-🔨 E Também em um Eccomerce Chamado DabruAteliê
+🔨 E Também em um Eccomerce Chamado DabruAteliê <br/>
 https://github.com/thalys93/dabruatelie
 
 
