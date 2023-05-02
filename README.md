@@ -9,9 +9,6 @@
  ❗ Agora Possuo um Portifolio em React! , onde faço constantes atualizações e optimizações <br/>
 https://portifolio-luis-thalys.web.app/
 
-🔨 E Também em um Eccomerce Chamado DabruAteliê <br/>
-https://github.com/thalys93/dabruatelie
-
 
 ## English 
 ### Have you opened a call? 📞
@@ -23,10 +20,7 @@ https://github.com/thalys93/dabruatelie
 > _I have identified more and more with the Front End Area and UI/UX Interface Design and so I have studied web development_
 
 ❗ Now I Own a Portfolio in React! , where I make constant updates and optimizations <br/>
-  https://portifolio-luis-thalys.web.app/
-  
-🔨 And Also in an Eccomerce Called DabruAteliê <br/>
-
+  https://portifolio-luis-thalys.web.app/  
 
 <div align="center">
  <a href="https://www.instagram.com/luiss_xavierr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
