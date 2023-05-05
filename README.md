@@ -27,4 +27,6 @@ https://portifolio-luis-thalys.web.app/
  	<a href="https://www.twitch.tv/o_thalys" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:luisthalys@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luis-rodrigues202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.com/channels/Thalys93#2555" target="_blank"><img src="https://img.shields.io/badge/-discord-%230067C5?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+
  </div> 
