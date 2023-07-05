@@ -1,6 +1,6 @@
 ### Já Abriu Chamado? 📞
   
-- 🏢 Atualmente Estou Buscando por Vagas de **Desenvolvimento Front End|React**
+- 🏢 Atualmente Estou Buscando por Vagas de **Desenvolvimento WEB**
 - 📒 Estou Estudando Técnico em Informática Na FAQI
 
 > 🌎 _Sábio é aquele que conhece os limites da própria ignorância._
@@ -16,7 +16,7 @@ https://portifolio-luis-thalys.web.app/
 ## English 
 ### Have you opened a call? 📞
 
-- 🏢 I'm Currently Looking for UI/UX Design and Front End Dev Jobs
+- 🏢 I'm Currently Looking for UI/UX Design and Web Dev Jobs
 - 📒 I'm studying IT at FAQI
 > 🌎 _A wise man is one who knows the limits of his own ignorance._
 
@@ -44,6 +44,10 @@ https://portifolio-luis-thalys.web.app/
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height='40'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height='40'/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height='40'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height='40'/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height='40'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height='40'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height='40'/>
   </div>
   
   <hr/>    
