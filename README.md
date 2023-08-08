@@ -1,6 +1,5 @@
 ### Já Abriu Chamado? 📞
   
-- 🏢 Atualmente Estou Buscando por Vagas de **Desenvolvimento WEB**
 - 📒 Estou Estudando Técnico em Informática Na FAQI
 
 > 🌎 _Sábio é aquele que conhece os limites da própria ignorância._
@@ -16,7 +15,6 @@ https://portifolio-luis-thalys.web.app/
 ## English 
 ### Have you opened a call? 📞
 
-- 🏢 I'm Currently Looking for UI/UX Design and Web Dev Jobs
 - 📒 I'm studying IT at FAQI
 > 🌎 _A wise man is one who knows the limits of his own ignorance._
 
