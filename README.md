@@ -34,7 +34,7 @@ This is a brief summary of the projects I am currently developing. For more deta
   </div>
   
   <div>
-    <h1> my languages </h1> 
+    <h1> My languages </h1> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height='40' />    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height='40' />     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height='40' />
