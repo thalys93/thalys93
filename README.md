@@ -1,33 +1,3 @@
-
-- 📒 Técnico em Informática Na QI
-> 🌎 _Sábio é aquele que conhece os limites da própria ignorância._
----
-### Projetos
- - Cadê Meu Rango <br/>
-	 ➡️ [Cadê Meu Rango](https://cade-meu-rango-front.web.app/) ; <br/>
-	Uma plataforma de receitas culinárias profundamente inspirada pelo renomado website [Tudo Gostoso](https://www.tudogostoso.com.br/) , trazendo uma ampla variedade de deliciosas receitas para os entusiastas da culinária.
-
- - Portifólio <br/>
-	 ➡️ [Portifólio Web](https://portifolio-luis-thalys.web.app/) ; <br/>
-	 Website tem como propósito exibir projetos desenvolvidos e servir como uma plataforma de apresentação, semelhante a um currículo virtual.
-
- - Vida Sustentável <br/> 
-	➡️ [Vida Sustentável](https://vida-sustentavel-61c19.web.app/) ; <br/>
-	Vida Sustentável é um website dedicado ao desenvolvimento sustentável, fundamentado em práticas de Interface de Usuário (UI) e Experiência de Usuário (UX).
-
-- Tooth Wallet <br/>
-	➡️ [Repositório - Tooth-Wallet)](https://github.com/Little-Tooth-Tecnologies/tooth-wallet/tree/main) ; <br/>
-	Um aplicativo em desenvolvimento em Kotlin para gerenciamento de finanças, atualmente parcialmente funcional. Para executá-lo, basta abrir o Android Studio e instalar o APK diretamente por meio do software. A autenticação é gerenciada pelo Firebase, e para fins de teste, você pode utilizar as credenciais de Teste: [Teste@email.com](mailto:Teste@email.com), Senha: 123456.
-
-- Dabru Ateliê <br/>
-	➡️ [Repositório Dabru-Ateliê](https://github.com/thalys93/dabruatelie) ; <br/>
-	O Dabru Ateliê é um projeto de um e-commerce especializado em fios e linhas de malha. Está em fase de desenvolvimento, seguindo a regra em que os artesãos podem exibir seus produtos em uma vitrine. Quando um cliente se interessa por um produto, ao selecioná-lo na galeria e clicar em 'Quero saber mais', a cliente é redirecionada para o WhatsApp da vendedora. Lá, podem ser tratados os detalhes da compra e da transação dos produtos desejados.
-
- Este é um breve resumo dos projetos que estou atualmente desenvolvendo. Para obter mais detalhes sobre esses projetos e outros relacionados, você pode acessar meu repositório privado em [Meus Repositórios](https://github.com/thalys93?tab=repositories). Além disso, se estiver interessado em projetos que desenvolvi em colaboração com meus colegas de curso, você pode visitar a organização [Little Tooth](https://github.com/orgs/Little-Tooth-Tecnologies/repositories) para acessar os repositórios em que participei e contribuí.
-
----
-
-## English 
 - 📒 Computer Technician at QI
 > 🌎 _A wise man is one who knows the limits of his own ignorance._
 
@@ -64,7 +34,7 @@ This is a brief summary of the projects I am currently developing. For more deta
   </div>
   
   <div>
-    <h1> Minhas Linguagens (my languages) </h1> 
+    <h1> my languages </h1> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height='40' />    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height='40' />     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height='40' />
@@ -80,7 +50,7 @@ This is a brief summary of the projects I am currently developing. For more deta
   <hr/>    
       
   <div>
-    <h3> Links Sociais </h3>
+    <h3> Social Links </h3>
   </div>
 <div>
  <a href="https://www.instagram.com/luiss_xavierr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
