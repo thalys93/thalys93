@@ -8,6 +8,10 @@
 	➡️ [Cadê Meu Rango](https://cade-meu-rango-front.web.app/) ; <br/>
 	A culinary recipes platform deeply inspired by the renowned website [Tudo Gostoso](https://www.tudogostoso.com.br/), offering a wide variety of delicious recipes for culinary enthusiasts.
 
+- **Dream Nexus Studios** <br/>
+	➡️ [Dream Nexus](https://github.com/thalys93/dreamNexus) ; <br/>
+ 	An indie game developer's portfolio, built using React with TypeScript and styling libraries, TypeScript and Bootstrap
+
 - **Portfolio** <br/>
 	➡️ [Web Portfolio](https://portifolio-luis-thalys.web.app/) ; <br/>
 	This website's purpose is to showcase developed projects and serve as a presentation platform, similar to a virtual resume.
