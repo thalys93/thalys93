@@ -1,12 +1,3 @@
-<style>
-	.p: {
-		display: 'flex';
-		flex-direction: 'row';
-		align-items: 'center';
-		gap: 3;
-	};
-</style>
-
 - 📒 Computer Technician at QI
 > 🌎 _A wise man is one who knows the limits of his own ignorance._
 
