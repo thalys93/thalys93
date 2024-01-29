@@ -1,9 +1,10 @@
-- 📒 Computer Technician at QI
-> 🌎 _A wise man is one who knows the limits of his own ignorance._
+Full Stack Developer with Experience in Responsive Web Applications and Mobile Apps with React Native.
+Let's Turn Your Idea Into Reality? 
+Get in touch with me! I will be at your disposal to assist you
 
 ---
 
-### Projects
+### My Projects
 - <p class='p'> <img src="https://res.cloudinary.com/dh39ahmpj/image/upload/v1706058318/Github/Logo_1_l864to.png" height='40'/> &nbsp Cadê Meu Rango </p>
 
 	➡️ [Cadê Meu Rango](https://cade-meu-rango-front.web.app/) ; <br/>
@@ -50,6 +51,9 @@ This is a brief summary of the projects I am currently developing. For more deta
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height='40'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height='40'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height='40'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height='40'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height='40'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height='40'/>
   </div>
   
   <hr/>    
@@ -61,7 +65,7 @@ This is a brief summary of the projects I am currently developing. For more deta
  <a href="https://www.instagram.com/luiss_xavierr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/o_thalys" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:luisthalys@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luis-rodrigues202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/thalys-dev202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://discord.com/channels/Thalys93#2555" target="_blank"><img src="https://img.shields.io/badge/-discord-%230067C5?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
  </div> 
