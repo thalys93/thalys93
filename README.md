@@ -1,6 +1,13 @@
+### Resume
 Full Stack Developer with Experience in Responsive Web Applications and Mobile Apps with React Native.
 Let's Turn Your Idea Into Reality? 
 Get in touch with me! I will be at your disposal to assist you
+
+### Front End
+On the front end, my specialization is in creating modern and responsive user interfaces. With solid knowledge in React, HTML, and CSS, I am able to develop reusable components, manage application state, and ensure that the user experience is always intuitive and enjoyable.
+
+### Back End
+On the backend, I master the Node.js technology, which allows me to create efficient RESTful APIs. In addition, I have experience in relational databases, such as MySQL and PostgreSQL, and I am familiar with
 
 ---
 
