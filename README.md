@@ -31,7 +31,7 @@ On the backend, I master the Node.js technology, which allows me to create effic
 
 - <p> <img src="https://res.cloudinary.com/dh39ahmpj/image/upload/v1706058554/Github/Logo_4_lxpjm3.png" height='40'/> &nbsp Tooth Wallet</p>
 
-	[Repository - Tooth-Wallet](https://github.com/Little-Tooth-Tecnologies/tooth-wallet/tree/main) ; <br/>
+	[Repository - Tooth-Wallet](https://github.com/Little-Tooth-Tecnologies/tooth-walletV2) ; <br/>
 	A React Native finance management app currently in partial functionality. Authentication is managed by Firebase
 
 - <p> <img src="https://res.cloudinary.com/dh39ahmpj/image/upload/v1706058683/Github/Logo_5_q0qfek.png" height='40'/> &nbsp Dabru Ateliê</p>
