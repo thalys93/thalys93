@@ -36,7 +36,7 @@ On the backend, I master the Node.js technology, which allows me to create effic
 
 - <p> <img src="https://res.cloudinary.com/dh39ahmpj/image/upload/v1706058683/Github/Logo_5_q0qfek.png" height='40'/> &nbsp Dabru Ateliê</p>
 
-	[Dabru-Ateliê Repository](https://github.com/thalys93/dabru-atelie-2.0) ; <br/>
+  	[Dabru-Ateliê Repository](https://github.com/thalys93/dabru-repository/tree/main) ; <br/>
 	Dabru Ateliê is a project for an e-commerce specializing in knitting yarn and threads. It's in the development phase, following the rule that artisans can showcase their products in a virtual storefront. When a customer is interested in a product, they can select it in the gallery and click 'I want to know more,' which will redirect the customer to the seller's WhatsApp. There, they can discuss the details of the purchase and transaction of the desired products.
 
 This is a brief summary of the projects I am currently developing. For more details on these projects and others related, you can access my private repository at [My Repositories](https://github.com/thalys93?tab=repositories). Additionally, if you're interested in projects I've collaborated on with my fellow classmates, you can visit the organization [Little Tooth](https://github.com/orgs/Little-Tooth-Tecnologies/repositories) to access the repositories I've participated in and contributed to.
