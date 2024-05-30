@@ -1,55 +1,45 @@
-### Resume
-Full Stack Developer with Experience in Responsive Web Applications and Mobile Apps with React Native.
-Let's Turn Your Idea Into Reality? 
-Get in touch with me! I will be at your disposal to assist you
+ <a href="https://komarev.com/ghpvc/?username=thalys93">
+  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=6434eb&style=rounded" alt="Profile visitor" />
+</a>
 
-### Front End
-On the front end, my specialization is in creating modern and responsive user interfaces. With solid knowledge in React, HTML, and CSS, I am able to develop reusable components, manage application state, and ensure that the user experience is always intuitive and enjoyable.
+<h3 align="center">
+	<samp>&gt; Hey!, I Am
+		<b><a target="_blank" href="https://portifolio-luis-thalys.web.app/home"> Luis Thalys </a> </b>
+	</samp>
+</h3>
 
-### Back End
-On the backend, I master the Node.js technology, which allows me to create efficient RESTful APIs. In addition, I have experience in relational databases, such as MySQL and PostgreSQL, and I am familiar with
+<p align="center">
+	<samp>
+		[ I am a Full Stack web developer and mobile from <b> Canoas RS - Brasil </b>]	
+	</samp>
+</p>
 
----
+<div align="center">
+<a href="https://portifolio-luis-thalys.web.app/home" target="_blank"><img src="https://img.shields.io/badge/-Portifolio-%6434e0b?style=for-the-badge&logo=abstract&logoColor=White"/></a>
+ <a href="https://www.instagram.com/luiss_xavierr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/o_thalys" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto:luisthalys@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thalys-dev202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.com/channels/Thalys93#2555" target="_blank"><img src="https://img.shields.io/badge/-discord-%230067C5?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+ </div> 
 
-### My Projects
-- <p class='p'> <img src="https://res.cloudinary.com/dh39ahmpj/image/upload/v1706058318/Github/Logo_1_l864to.png" height='40'/> &nbsp Cadê Meu Rango </p>
-
-	➡️ [Cadê Meu Rango](https://cade-meu-rango-front.web.app/) ; <br/>
-	A culinary recipes platform deeply inspired by the renowned website [Tudo Gostoso](https://www.tudogostoso.com.br/), offering a wide variety of delicious recipes for culinary enthusiasts. <br/>
+ ## About Me
  
-	➡️ [Cade Meu Rango API](https://github.com/Little-Tooth-Tecnologies/cademeurango-api/tree/node-new)
- 
-- <p> <img src="https://res.cloudinary.com/dh39ahmpj/image/upload/v1706058292/Github/Logo_2_imytzn.png" height='40'/> &nbsp Dream Nexus Studios </p>
-
-	[Dream Nexus](https://github.com/thalys93/dreamNexus) ; <br/>
- 	An indie game developer's portfolio, built using React with TypeScript and styling libraries, TypeScript and Bootstrap
- 
-- <p> <img src="https://res.cloudinary.com/dh39ahmpj/image/upload/v1706058413/Github/Logo_3_qdjbsx.png" height='40'/> &nbsp Sustainable Life </p>
-
-	[Sustainable Life](https://vida-sustentavel-61c19.web.app/) ; <br/>
-	Sustainable Life is a website dedicated to sustainable development, grounded in User Interface (UI) and User Experience (UX) practices.
-
-- <p> <img src="https://res.cloudinary.com/dh39ahmpj/image/upload/v1706058554/Github/Logo_4_lxpjm3.png" height='40'/> &nbsp Tooth Wallet</p>
-
-	[Repository - Tooth-Wallet](https://github.com/Little-Tooth-Tecnologies/tooth-walletV2) ; <br/>
-	A React Native finance management app currently in partial functionality. Authentication is managed by Firebase
-
-- <p> <img src="https://res.cloudinary.com/dh39ahmpj/image/upload/v1706058683/Github/Logo_5_q0qfek.png" height='40'/> &nbsp Dabru Ateliê</p>
-
-  	[Dabru-Ateliê Repository](https://github.com/thalys93/dabru-repository/tree/main) ; <br/>
-	Dabru Ateliê is a project for an e-commerce specializing in knitting yarn and threads. It's in the development phase, following the rule that artisans can showcase their products in a virtual storefront. When a customer is interested in a product, they can select it in the gallery and click 'I want to know more,' which will redirect the customer to the seller's WhatsApp. There, they can discuss the details of the purchase and transaction of the desired products.
-
-This is a brief summary of the projects I am currently developing. For more details on these projects and others related, you can access my private repository at [My Repositories](https://github.com/thalys93?tab=repositories). Additionally, if you're interested in projects I've collaborated on with my fellow classmates, you can visit the organization [Little Tooth](https://github.com/orgs/Little-Tooth-Tecnologies/repositories) to access the repositories I've participated in and contributed to.
+ <p>
+  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
-  ---    
-  <div>
-  <a href="https://github.com/thalys93">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=thalys93&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalys93&layout=compact&langs_count=7&theme=react"/>
-  </div>
-  
-  <div>
-    <h1> My languages </h1> 
+ ✌️ &emsp; Full-Stack Developer Working in mobile and backend development<br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/>
+ 📧 &emsp; Reach me anytime: thalys.dev@gmail.com<br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/thalys93/thalys93/issues).
+	 
+ </p>
+
+ 
+ 
+## Languages that i am Working
+
+  <div align="center">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height='40' />    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height='40' />     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height='40' />
@@ -64,17 +54,34 @@ This is a brief summary of the projects I am currently developing. For more deta
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height='40'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height='40'/>
   </div>
-  
-  <hr/>    
-      
-  <div>
-    <h3> Social Links </h3>
-  </div>
-<div>
- <a href="https://www.instagram.com/luiss_xavierr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/o_thalys" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:luisthalys@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thalys-dev202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://discord.com/channels/Thalys93#2555" target="_blank"><img src="https://img.shields.io/badge/-discord-%230067C5?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+ 
+## My Pricipal Projects
 
- </div> 
+[![Cadê Meu Rango](https://github-readme-stats.vercel.app/api/pin/?username=Little-Tooth-Tecnologies&repo=cade-meu-rango-front&border_color=%6434e0b&bg_color=0D1117&title_color=C9D1D9&text_color=%6434e0b&icon_color=%6434e0b)](https://github.com/Little-Tooth-Tecnologies/cade-meu-rango-front)
+[![Dream Nexus](https://github-readme-stats.vercel.app/api/pin/?username=thalys93&repo=dreamNexus&border_color=%6434e0b&bg_color=0D1117&title_color=C9D1D9&text_color=%6434e0b&icon_color=%6434e0b)](https://github.com/thalys93/dreamNexus).
+[![Sustainable Life](https://github-readme-stats.vercel.app/api/pin/?username=thalys93&repo=vida-sustentavel&border_color=%6434e0b&bg_color=0D1117&title_color=C9D1D9&text_color=%6434e0b&icon_color=%6434e0b)](https://github.com/thalys93/vida-sustentavel).
+[![Crypto Currency](https://github-readme-stats.vercel.app/api/pin/?username=thalys93&repo=crypto-currency&border_color=%6434e0b&bg_color=0D1117&title_color=C9D1D9&text_color=%6434e0b&icon_color=%6434e0b)](https://github.com/thalys93/crypto-currency).
+[![Portifolio](https://github-readme-stats.vercel.app/api/pin/?username=thalys93&repo=portifolio-luis&border_color=%6434e0b&bg_color=0D1117&title_color=C9D1D9&text_color=%6434e0b&icon_color=%6434e0b)](https://github.com/thalys93/portifolio-luis).
+
+
+<p align="left">
+  <a href="https://github.com/thalys93?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/thalys93">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thalys93&theme=codeSTACKr" alt="Thalys GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/thalys93">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thalys93&theme=codeSTACKr" alt="Thalys GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/thalys93"><img alt="Thalys Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=thalys93&show_icons=true&count_private=true&theme=codeSTACKr" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/thalys93"><img alt="Thalys Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=thalys93&langs_count=8&layout=compact&theme=codeSTACKr" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
