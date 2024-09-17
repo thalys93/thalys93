@@ -60,7 +60,6 @@
 [![Cadê Meu Rango](https://github-readme-stats.vercel.app/api/pin/?username=Little-Tooth-Tecnologies&repo=cade-meu-rango-front&border_color=%6434e0b&bg_color=0D1117&title_color=C9D1D9&text_color=%6434e0b&icon_color=%6434e0b)](https://github.com/Little-Tooth-Tecnologies/cade-meu-rango-front)
 [![Dream Nexus](https://github-readme-stats.vercel.app/api/pin/?username=thalys93&repo=dreamNexus&border_color=%6434e0b&bg_color=0D1117&title_color=C9D1D9&text_color=%6434e0b&icon_color=%6434e0b)](https://github.com/thalys93/dreamNexus).
 [![Crypto Currency](https://github-readme-stats.vercel.app/api/pin/?username=thalys93&repo=crypto-currency&border_color=%6434e0b&bg_color=0D1117&title_color=C9D1D9&text_color=%6434e0b&icon_color=%6434e0b)](https://github.com/thalys93/crypto-currency).
-[![Portifolio](https://github-readme-stats.vercel.app/api/pin/?username=thalys93&repo=portifolio-luis&border_color=%6434e0b&bg_color=0D1117&title_color=C9D1D9&text_color=%6434e0b&icon_color=%6434e0b)](https://github.com/thalys93/portifolio-luis).
 [![The FilmDB](https://github-readme-stats.vercel.app/api/pin/?username=thalys93&repo=the-film-db&border_color=%6434e0b&bg_color=0D1117&title_color=C9D1D9&text_color=%6434e0b&icon_color=%6434e0b)](https://github.com/thalys93/the-film-db).
 
 
