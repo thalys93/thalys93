@@ -2,52 +2,50 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=6434eb&style=rounded" alt="Profile visitor" />
 </a>
 
-<h3 align="start">
-	<samp>&gt; Hey!, I Am
-		<b><a target="_blank" href="https://portifolio-luis-thalys.web.app/home"> Luis Thalys </a> </b>
-	</samp>
-</h3>
+# 👨‍💻 Luis Thalys Rodrigues - Desenvolvedor Full Stack | Mobile
 
-<p align="start">
-	<samp>
-		[ I am a Full Stack developer from <b> Canoas City RS - Brasil </b>] <br/>
-		[ And I Remodeling my profile in github, expect new changes 😉 ] 
-	</samp>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=web)](https://portifolio-luis-thalys.web.app/home)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thalys-dev202)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/thalys93)
 
-<section>
-<h3>Languages that i use</h3>
-	
-  <div align="start" >  
-  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height='40' /> 
-  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height='40' />     
-  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height='40' /> 
-  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height='40'/>   
-  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height='40'/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height='40'/> 
-  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height='40'/>  
-  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height='40'/>
-  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height='40'/>
-  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height='40'/>
-  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height='40'/>
-  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height='40'/>
-  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height='40'/>
-  </div>
-</section>
 
-<br/><br/><br/><br/>
+### 🚀 Sobre Mim
+
+Sou um Desenvolvedor Full Stack Pleno apaixonado por criar experiências inovadoras e solucionar problemas com tecnologia. Com sólida experiência em desenvolvimento mobile e web, busco constantemente otimizar processos, garantir performance e contribuir para equipes colaborativas.
+
+<table class="row">
+	<tr style="padding: 0">
+	<td><img height="200" src="https://github-readme-stats.vercel.app/api?username=thalys93&show_icons=true&bg_color=00000000&theme=blue-green"/></td>
+	<td><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalys93&theme=blue-green&bg_color=00000000&langs_count=6&layout=donut"/></td>
+	</tr>
+</table>
+
+[![The Film Db Card](https://github-readme-stats.vercel.app/api/pin/?username=thalys93&repo=the-film-db&theme=blue-green&bg_color=00000000)](https://github.com/thalys93/the-film-db)
+[![Portifólio Card](https://github-readme-stats.vercel.app/api/pin/?username=thalys93&repo=portifolio-luis&theme=blue-green&bg_color=00000000)](https://github.com/thalys93/portifolio-luis)
+
+
 
 ---
 
-<h3 align="center"> Social Media </h3>
-<div align="center">
-<a href="https://portifolio-luis-thalys.web.app/home" target="_blank"><img src="https://img.shields.io/badge/-Portifolio-%6434e0b?style=for-the-badge&logo=abstract&logoColor=White"/></a>
- <a href="https://www.instagram.com/luiss_xavierr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/o_thalys" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:luisthalys@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thalys-dev202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://discord.com/channels/Thalys93#2555" target="_blank"><img src="https://img.shields.io/badge/-discord-%230067C5?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
- </div> 
- 
----
+### 🔧 Competências Principais
 
+- **Linguagens**: JavaScript, TypeScript, Kotlin, Java, C#, HTML, CSS.
+- **Frameworks/Libraries**: React Native, Angular, NestJS, Express.js, Laravel, Spring Boot.
+- **DevOps**: Docker, CI/CD, Pipelines automatizadas.
+- **Bancos de Dados**: MongoDB, PostgreSQL, MySQL.
+- **Metodologias**: Kanban, SCRUM.
+- **Outras Ferramentas**: Redux, Context API, Firebase, Figma, SAP/Protheus ERP.
+
+  ---
+  
+
+### 🌱 Educação e Certificações
+
+- **Ensino Técnico em Tecnologia da Informação**  
+  - QI Escolas e Faculdades (2022 - 2023)  
+  - Certificações Alura: Node.js, Express, MongoDB, JavaScript.
+
+### 📫 Entre em Contato
+
+📧 **E-mail**: luisthalys1@hotmail.com  
+📞 **Telefone**: +55 51 99148-5593
