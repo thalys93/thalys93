@@ -2,16 +2,16 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=6434eb&style=rounded" alt="Profile visitor" />
 </a>
 
-# 👨‍💻 Luis Thalys Rodrigues - Desenvolvedor Full Stack | Mobile
+# 👨‍💻 Luis Thalys Rodrigues - Full Stack Developer | Mobile
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=web)](https://portifolio-luis-thalys.web.app/home)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thalys-dev202)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/thalys93)
 
 
-### 🚀 Sobre Mim
+### 🚀 About Me
 
-Sou um Desenvolvedor Full Stack Pleno apaixonado por criar experiências inovadoras e solucionar problemas com tecnologia. Com sólida experiência em desenvolvimento mobile e web, busco constantemente otimizar processos, garantir performance e contribuir para equipes colaborativas.
+I'm a Full Stack Developer passionate about creating innovative experiences and solving technology problems. With solid experience in mobile and web development, I constantly strive to optimize processes, ensure performance, and contribute to collaborative teams.
 
 <table class="row">
 	<tr style="padding: 0">
@@ -27,25 +27,25 @@ Sou um Desenvolvedor Full Stack Pleno apaixonado por criar experiências inovado
 
 ---
 
-### 🔧 Competências Principais
+### 🔧 Core Competenciesis
 
-- **Linguagens**: JavaScript, TypeScript, Kotlin, Java, C#, HTML, CSS.
+- **Languages**: JavaScript, TypeScript, Kotlin, Java, C#, HTML, CSS.
 - **Frameworks/Libraries**: React Native, Angular, NestJS, Express.js, Laravel, Spring Boot.
-- **DevOps**: Docker, CI/CD, Pipelines automatizadas.
-- **Bancos de Dados**: MongoDB, PostgreSQL, MySQL.
-- **Metodologias**: Kanban, SCRUM.
-- **Outras Ferramentas**: Redux, Context API, Firebase, Figma, SAP/Protheus ERP.
+- **DevOps**: Docker, CI/CD, Pipelines automated.
+- **Databases**: MongoDB, PostgreSQL, MySQL.
+- **Methodologies**: Kanban, SCRUM.
+- **Other Tools**: Redux, Context API, Firebase, Figma, SAP/Protheus ERP.
 
   ---
   
 
-### 🌱 Educação e Certificações
+### 🌱 Education and Certifications
 
-- **Ensino Técnico em Tecnologia da Informação**  
-  - QI Escolas e Faculdades (2022 - 2023)  
-  - Certificações Alura: Node.js, Express, MongoDB, JavaScript.
+- **Technical Education in Information Technology**  
+  - QI Schools and Colleges (2022 - 2023)  
+  - Alura Certifications: Node.js, Express, MongoDB, JavaScript.
 
-### 📫 Entre em Contato
+### 📫 Get in Touch
 
-📧 **E-mail**: luisthalys1@hotmail.com  
-📞 **Telefone**: +55 51 99148-5593
+📧 **Email**: thalys.dev@gmail.com
+📞 **Cellphone**: +55 51 99148-5593
