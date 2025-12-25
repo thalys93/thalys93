@@ -8,22 +8,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thalys-dev202)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/thalys93)
 
-
 ### 🚀 About Me
 
 I'm a Full Stack Developer passionate about creating innovative experiences and solving technology problems. With solid experience in mobile and web development, I constantly strive to optimize processes, ensure performance, and contribute to collaborative teams.
-
-<table class="row">
-	<tr style="padding: 0">
-	<td><img height="200" src="https://github-readme-stats.vercel.app/api?username=thalys93&show_icons=true&bg_color=00000000&theme=blue-green"/></td>
-	<td><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalys93&theme=blue-green&bg_color=00000000&langs_count=6&layout=donut"/></td>
-	</tr>
-</table>
-
-[![Toolkit Card](https://github-readme-stats.vercel.app/api/pin/?username=thalys93&repo=tdev_toolkit&theme=blue-green&bg_color=00000000)](https://github.com/thalys93/tdev_toolkit)
-[![Portifólio Card](https://github-readme-stats.vercel.app/api/pin/?username=thalys93&repo=portifolio-luis&theme=blue-green&bg_color=00000000)](https://github.com/thalys93/portifolio-luis)
-
-
 
 ---
 
