@@ -4,7 +4,7 @@
 
 # 👨‍💻 Luis Thalys Rodrigues - Full Stack Developer | Mobile
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=web)](https://portifolio-luis-thalys.web.app/home)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=web)](https://portifolio-luis-thalys.web.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thalys-dev202)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/thalys93)
 
